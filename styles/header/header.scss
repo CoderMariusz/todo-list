@@ -1,0 +1,14 @@
+header {
+  background-color: blue;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  nav {
+    display: flex;
+    gap: 20px;
+    a {
+      font-weight: 700;
+    }
+  }
+}
